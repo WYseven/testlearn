@@ -3,7 +3,7 @@ let app = express();
 
 
 app.get('/', (req,res) => {
-	res.send('xiugaile123')
+	res.send('xiugaile123 start')
 })
 
 app.listen(3000, () => {
