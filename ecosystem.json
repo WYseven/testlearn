@@ -1,7 +1,7 @@
 {
 	"apps": {
 		"name": "test",
-		"script" : "app.js",
+		"script" : "current/app.js",
 		"env": {
 	      "COMMON_VARIABLE": "true"
 	    },
