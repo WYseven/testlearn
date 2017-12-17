@@ -15,7 +15,7 @@
 			"host": "118.89.226.84",
 			"port": "22",
 			"ref"  : "origin/master",
-			"repo" : "git@gitee.com:sevent/weblearn.git",
+			"repo" : "git@github.com:WYseven/testlearn.git",
 			"path" : "/root/www/test",
 			"ssh_options": "StrictHostKeyChecking=no",
 			"post-deploy" : "npm install && pm2 startOrRestart ecosystem.json --env production",
